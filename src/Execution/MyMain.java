@@ -60,7 +60,7 @@ public class MyMain {
                 int num = scanner.nextInt();
                 definationList.delete(num - 1);
                 break;
-            case 5
+            case 5:
                 ;
                 System.out.println("Exit done, Thank you for visting");
                 break;
